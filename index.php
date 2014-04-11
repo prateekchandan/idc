@@ -214,31 +214,47 @@
 	<div class="container">
 		<div class="row mt centered">
 			<div class="col-lg-6 col-lg-offset-3">
-				<h1>Our Awesome Team.<br/>Design Lovers.</h1>
-				<h3>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</h3>
+				<h1>Our Awesome Team.</h1>
+				<h3>The guys who went all the way to compile data and create an awesome product!</h3>
 			</div>
 		</div><!-- /row -->
 		
 		<div class="row mt centered">
 			<div class="col-lg-4">
 				<img class="img-circle" src="assets/img/pic1.jpg" width="140" alt="">
-				<h4>Michael Robson</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.</p>
-				<p><i class="glyphicon glyphicon-send"></i> <i class="glyphicon glyphicon-phone"></i> <i class="glyphicon glyphicon-globe"></i></p>
+				<h4>Ranveer Aggarwal</h4>
+				<p>120050020<br>Computer Science and Engineering</p>
 			</div><!--/col-lg-4 -->
 
 			<div class="col-lg-4">
 				<img class="img-circle" src="assets/img/pic2.jpg" width="140" alt="">
-				<h4>Pete Ford</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.</p>
-				<p><i class="glyphicon glyphicon-send"></i> <i class="glyphicon glyphicon-phone"></i> <i class="glyphicon glyphicon-globe"></i></p>
+				<h4>Yogesh Soni</h4>
+				<p>10D100022<br>Mechanical Engineering</p>
 			</div><!--/col-lg-4 -->
 
 			<div class="col-lg-4">
 				<img class="img-circle" src="assets/img/pic3.jpg" width="140" alt="">
-				<h4>Angelica Finning</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.</p>
-				<p><i class="glyphicon glyphicon-send"></i> <i class="glyphicon glyphicon-phone"></i> <i class="glyphicon glyphicon-globe"></i></p>
+				<h4>Prateek Chandan</h4>
+				<p>120050042<br>Computer Science and Engineering</p>
+			</div><!--/col-lg-4 -->
+		</div><!-- /row -->
+		<div class="row mt centered">
+			<div class="col-lg-4">
+				<img class="img-circle" src="assets/img/pic4.jpg" width="140" alt="">
+				<h4>Sagar Rohira</h4>
+				<p>120100059<br>Mechanical Engineering</p>
+			</div><!--/col-lg-4 -->
+
+			<div class="col-lg-4">
+				<img class="img-circle" src="assets/img/pic5.jpg" width="140" alt="">
+				<h4>Sanidhya Gupta</h4>
+				<p>120100069<br>Mechanical Engineering</p>
+			</div><!--/col-lg-4 -->
+
+			<div class="col-lg-4">
+				<img class="img-circle" src="assets/img/pic6.jpg" width="140" alt="">
+				<h4>Rishi Agrawal</h4>
+				<p>10D100059<br>Mechanical Engineering</p>
 			</div><!--/col-lg-4 -->
 		</div><!-- /row -->
 	</div><!-- /container -->
@@ -251,13 +267,13 @@
 				  <div class="form-group">
 				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
 				  </div>
-				  <button type="submit" class="btn btn-warning btn-lg">Invite Me!</button>
+				  <button type="submit" class="btn btn-warning btn-lg">Contact Us!</button>
 				</form>					
 			</div>
 			<div class="col-lg-3"></div>
 		</div><!-- /row -->
 		<hr>
-		<p class="centered">Created by BlackTie.co - Attribution License 3.0 - 2013</p>
+		<p class="centered">ID 405 Team Project 2014 <br> Credits BlackTie.co</p>
 	</div><!-- /container -->
 	
 
