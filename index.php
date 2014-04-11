@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="idc, wiki, careers">
+    <meta name="author" content="Ranveer Aggarwal">
     <link rel="shortcut icon" href="assets/img/favicon.png">
 
-    <title>IDC Project</title>
+    <title>Wiki Careers</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -51,13 +51,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6">
-					<h1>Make your landing page<br/>
-					look really good.</h1>
+					<h1>In lookout for a path?<br/>
+					Can't decide your career?</h1>
 					<form class="form-inline" role="form">
 					  <div class="form-group">
 					    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your email address">
 					  </div>
-					  <button type="submit" class="btn btn-warning btn-lg">Invite Me!</button>
+					  <button type="submit" class="btn btn-warning btn-lg">Help Me!</button>
 					</form>					
 				</div><!-- /col-lg-6 -->
 				<div class="col-lg-6">
